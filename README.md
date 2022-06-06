@@ -1,4 +1,5 @@
-##Hello there, welcome to Asquared Agency 👋
+## Hello there, welcome to Asquared Agency 👋
 
-**We are hiring **
+**We are hiring!**
+
 [https://asquared.agency/careers/](https://asquared.agency/careers/)
